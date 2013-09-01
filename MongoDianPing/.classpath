@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="/Users/administrator/Downloads/mongo-java-driver-2.11.0.jar"/>
+	<classpathentry kind="lib" path="/Users/administrator/Downloads/httpcomponents-asyncclient-4.0-beta4/lib/httpcore-nio-4.3-beta2.jar"/>
+	<classpathentry kind="lib" path="/Users/administrator/Downloads/httpcomponents-asyncclient-4.0-beta4/lib/httpcore-4.3-beta2.jar"/>
+	<classpathentry kind="lib" path="/Users/administrator/Downloads/httpcomponents-asyncclient-4.0-beta4/lib/httpclient-cache-4.3-beta1.jar"/>
+	<classpathentry kind="lib" path="/Users/administrator/Downloads/httpcomponents-asyncclient-4.0-beta4/lib/httpclient-4.3-beta1.jar"/>
+	<classpathentry kind="lib" path="/Users/administrator/Downloads/httpcomponents-asyncclient-4.0-beta4/lib/commons-codec-1.6.jar"/>
+	<classpathentry kind="lib" path="/Users/administrator/Downloads/httpcomponents-asyncclient-4.0-beta4/lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="/Users/administrator/Downloads/httpcomponents-core-4.2.4/lib/httpcore-ab-4.2.4.jar"/>
+	<classpathentry kind="lib" path="/Users/administrator/Downloads/httpcomponents-client-4.2.5/lib/fluent-hc-4.2.5.jar"/>
+	<classpathentry kind="lib" path="/Users/administrator/Downloads/httpcomponents-asyncclient-4.0-beta4/lib/httpasyncclient-4.0-beta4.jar"/>
+	<classpathentry kind="lib" path="/Users/administrator/Downloads/httpcomponents-client-4.2.5/lib/httpmime-4.2.5.jar"/>
+	<classpathentry kind="lib" path="/Users/administrator/Downloads/httpcomponents-asyncclient-4.0-beta4/lib/httpasyncclient-cache-4.0-beta4.jar"/>
+	<classpathentry kind="lib" path="/Users/administrator/Downloads/htmlcleaner-2.5.jar"/>
+	<classpathentry kind="lib" path="/Users/administrator/Downloads/json-simple-1.1.1.jar"/>
+	<classpathentry kind="lib" path="/Users/administrator/Downloads/commons-io-2.4 2/commons-io-2.4.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
